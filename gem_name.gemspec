@@ -11,6 +11,11 @@ Gem::Specification.new do |s|
   s.homepage    = ""
   s.summary     = %q{TODO: Write a gem summary}
   s.description = %q{TODO: Write a gem description}
+  
+  s.add_dependency 'thor'
+  s.add_development_dependency 'minitest'
+  s.add_development_dependency 'ruby-debug'
+  s.add_development_dependency 'rake'
 
   s.rubyforge_project = "gem_name"
 
