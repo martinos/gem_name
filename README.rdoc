@@ -1,2 +1,2 @@
 == gem_name
-Template for gem creation you should replace gem_name string file name and file content.
+Template for gem creation. You should replace gem_name string in file names and file contents.
